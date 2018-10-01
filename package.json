@@ -1,0 +1,31 @@
+{
+  "name": "vue_src",
+  "version": "1.0.0",
+  "description": "vue源码分析",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/db-murphy/vue_src.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.6.1",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "file-loader": "^1.1.11",
+    "ora": "^2.1.0",
+    "postcss-loader": "^2.1.5",
+    "uglifyjs-webpack-plugin": "^1.2.5",
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.1.2"
+  },
+  "bugs": {
+    "url": "https://github.com/db-murphy/vue_src/issues"
+  },
+  "homepage": "https://github.com/db-murphy/vue_src#readme"
+}
